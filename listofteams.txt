@@ -1,0 +1,41 @@
+
+
+1) The list of teams for Bundesliga(Germany) are :
+
+Duisburg, Wolfsburg, Bayern Munich, Ein Frankfurt, Kaiserslautern, Schalke 04, 
+Stuttgart, Hertha, Ulm, Bielefeld, Unterhaching, Dortmund, Freiburg, Hamburg,
+Munich 1860, Werder Bremen, Hansa Rostock, Leverkusen, Cottbus, Bochum, FC Koln, 
+M'gladbach, St Pauli, Nurnberg, Hannover, Mainz, Aachen, Karlsruhe, Hoffenheim, 
+Augsburg, Greuther Furth, Fortuna Dusseldorf, Braunschweig, Paderborn, Darmstadt, Ingolstadt, 
+RB Leipzig, Union Berlin, Heidenheim
+
+
+2) The list of the teams for English Premier League(England)  are :
+
+Arsenal, Chelsea, Coventry, Leeds, Middlesbrough, Newcastle, Sheffield Weds,
+Watford, West Ham, Everton, Tottenham, Derby, Sunderland, Wimbledon, Aston Villa, 
+Leicester, Man United, Southampton, Bradford, Liverpool, nan, Charlton, 
+Ipswich, Man City, Bolton, Blackburn, Fulham, Birmingham, Middlesboro, West Brom, 
+Portsmouth, Wolves, Norwich, Crystal Palace, Wigan, Reading, Sheffield United, Hull, 
+Stoke, Burnley, Blackpool, QPR, Swansea, Cardiff, Bournemouth, Brighton, Huddersfield, 
+Brentford, Nott'm Forest, Luton
+
+
+3) The list of the teams for La Liga(Spain)  are : 
+
+Ath Bilbao, Mallorca, Valencia, Ath Madrid, Barcelona, La Coruna, 
+Malaga, Numancia, Oviedo, Sevilla, Sociedad, Alaves, Betis, Celta, 
+Espanol, Real Madrid, Santander, Valladolid, Vallecano, Zaragoza, 
+Las Palmas, Osasuna, Villarreal, Tenerife, Recreativo, Albacete,
+Murcia, Getafe, Levante, Cadiz, Gimnastic, Almeria, Sp Gijon, Xerez,
+Hercules, Granada, Elche, Eibar, Cordoba, Leganes, Girona, Huesca
+
+
+4) The list of the teams for Serie A(Italy)  are : 
+
+Bologna, Fiorentina, Inter, Juventus, Lecce, Perugia, Piacenza, 
+Venezia, Lazio, Bari, Reggina, Udinese, Cagliari, Milan, Parma, Roma, 
+Torino, Verona,Napoli, Atalanta, Brescia, Vicenza, Chievo, 
+Como, Modena, Empoli, Ancona, Sampdoria, Siena, Palermo, Livorno, Messina, 
+Ascoli, Treviso, Catania, Genoa, Cesena, Novara, Pescara, Sassuolo, Frosinone,
+Carpi, Crotone, Benevento, Spal, Spezia, Salernitana, Monza, Cremonese
