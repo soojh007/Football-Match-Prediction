@@ -10,6 +10,8 @@ def home_page():
 
     st.write("This web app predicts the outcome of football matches in the top European leagues like: Bundesliga, EPL, La Liga, Serie A")
 
+    st.info("While navigating through different leagues kindly please refresh the site for better performance")
+
     st.write("Select the league from the sidebar to get started")
 
     container = st.container()
