@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 @st.cache_data
 def load_data():
     # Load the dataset
-    matches = pd.read_csv('EPL\epldata.csv')
+    matches = pd.read_csv('EPL/epldata.csv')
     # Drop rows with missing values
     matches.dropna(inplace=True)
     return matches
@@ -122,7 +122,7 @@ def predict_match(HomeTeam, AwayTeam, historical_matches, preprocessor, home_goa
 def epl():
 
     # Load the logo
-    st.image('EPL\logo.png',width=200)
+    st.image('EPL/logo.png',width=200)
 
     st.title('Premier League Football Match Outcome Predictor')
 

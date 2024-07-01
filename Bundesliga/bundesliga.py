@@ -10,7 +10,7 @@ from PIL import Image
 
 @st.cache_data
 def load_data():
-    matches = pd.read_csv('Bundesliga\data.csv')
+    matches = pd.read_csv('Bundesliga/data.csv')
     matches.dropna(inplace=True)
     return matches
 
@@ -105,7 +105,7 @@ def predict_match(HomeTeam, AwayTeam, historical_matches, preprocessor, home_goa
 
 def bundesliga():
 
-    st.image('Bundesliga\logo.png', width=200)
+    st.image('Bundesliga/logo.png', width=200)
 
     st.title('Bundesliga Football Match Outcome Predictor')
 

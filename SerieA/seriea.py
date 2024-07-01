@@ -10,7 +10,7 @@ from PIL import Image
 
 @st.cache_data
 def load_data():
-    matches = pd.read_csv('SerieA\serieAdata.csv')
+    matches = pd.read_csv('SerieA/serieAdata.csv')
     matches.dropna(inplace=True)
     return matches
 
@@ -105,7 +105,7 @@ def predict_match(HomeTeam, AwayTeam, historical_matches, preprocessor, home_goa
 
 def seriea():
 
-    st.image('SerieA\logo.png', width=200)
+    st.image('SerieA/logo.png', width=200)
 
     st.title('Serie A Football Match Outcome Predictor')
 
