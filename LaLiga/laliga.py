@@ -150,14 +150,16 @@ def laliga():
                 result, home_goals, away_goals = predict_match(HomeTeam, AwayTeam, matches, preprocessor, home_goal_model, away_goal_model)
             st.success('Done!')
             st.write(f'Predicted goals: {HomeTeam} {home_goals} - {away_goals} {AwayTeam}')
-
+            
             if result == 'Home Win':
                 winning_team = HomeTeam
-                st.write(f'The match result prediction: {winning_team} wins the match!')
+                st.write(f'The match result prediction: {winning_team} wins the match!')   
+                st.balloons()
 
             elif result == 'Away Win':
                 winning_team = AwayTeam
                 st.write(f'The match result prediction: {winning_team} wins the match!')
+                st.balloons()
             else:
                 winning_team = 'Draw'
                 st.write(f'The match result prediction: The match ends in a draw!')

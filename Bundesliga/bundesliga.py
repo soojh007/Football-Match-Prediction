@@ -154,14 +154,16 @@ def bundesliga():
 
             if result == 'Home Win':
                 winning_team = HomeTeam
-                st.write(f'The match result prediction: {winning_team} wins the match!')
+                st.write(f'The match result prediction: {winning_team} wins the match!')   
+                st.balloons()
 
             elif result == 'Away Win':
                 winning_team = AwayTeam
                 st.write(f'The match result prediction: {winning_team} wins the match!')
+                st.balloons()
             else:
                 winning_team = 'Draw'
-                st.write(f'The match result prediction: The match ends in a draw!')
+                st.write(f'The match result prediction: The match ends in a draw!')     
         else:
             st.write('Please enter both team names.')
 
